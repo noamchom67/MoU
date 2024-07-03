@@ -175,6 +175,15 @@ halvings, it is desirable to create rainy-day reserves.
 **Funding Stream**: The ZCG funding stream should conform to the standards of
 ZIP 207 and ZIP 214.
 
+**Revisitation**: The terms of this ZIP should be revisited by the Zcash ecosystem
+upon creation/ activation of a "non-direct funding model". At that completion of
+an NDFM which accessess the lockbox funds, this ZIP should be reconsidered (potentially terminated)
+by the Zcash ecosystem, to determine if its ongoing direct block subsidies 
+are preferred for continuation. Discussions/ solications/ sentiment gathering
+from the Zcash ecosystem should be initiated ~6 months in advance of the presumed 
+activation of a "non-direct funding model", such that the Zcash 
+ecosystem preference can be expediently realized.
+
 ## Specification
 
 Consensus changes implied by this specification are applicable to the Zcash
